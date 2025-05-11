@@ -1,6 +1,8 @@
 def agregar_tarea(lista,tarea):
     lista.append(tarea)
     return lista
+# Función Listar Tareas
+
 def listar_tareas(lista):
     if not lista:
         print("la lista está vacia")
