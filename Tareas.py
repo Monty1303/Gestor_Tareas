@@ -18,4 +18,4 @@ def eliminar_tareas(lista,indice):
     else:
         print("Indice fuera del rango")
 
-    print()
+ 
