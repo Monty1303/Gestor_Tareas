@@ -1,2 +1,0 @@
-# Gestor_Tareas
-
